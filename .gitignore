@@ -49,7 +49,7 @@ typings/
 .env
 
 # next.js build output
-.next
+client/.next
 =======
 # dotenv environment variables file
 .env
